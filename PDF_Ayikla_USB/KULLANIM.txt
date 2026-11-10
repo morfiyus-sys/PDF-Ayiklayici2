@@ -1,0 +1,55 @@
+﻿PDF SAYFALARINI AYIKLA - PORTABLE
+=================================
+
+KULLANIM
+--------
+
+1. Bu klasoru USB belleğe kopyalayin.
+
+2. Hedef Windows bilgisayarda Kur.bat dosyasina cift tiklayin.
+
+3. Herhangi bir PDF dosyasina sag tiklayin.
+
+4. "PDF Sayfalarını Ayıkla" secenegini secin.
+
+Ornek:
+
+bahce.pdf
+
+5 sayfaysa:
+
+bahce_001.pdf
+bahce_002.pdf
+bahce_003.pdf
+bahce_004.pdf
+bahce_005.pdf
+
+seklinde olusturulur.
+
+GEREKSINIMLER
+-------------
+
+Hedef bilgisayarda:
+
+Python gerekmez.
+PyMuPDF gerekmez.
+PyInstaller gerekmez.
+pip gerekmez.
+Internet gerekmez.
+
+USB SURUCU HARFI
+----------------
+
+USB E:, F:, G: veya baska bir harfle gorunse bile sorun olmaz.
+
+KALDIRMA
+--------
+
+Kaldir.bat dosyasina cift tiklayin.
+
+NOT
+---
+
+Kur.bat yonetici yetkisi gerektirmez.
+Sadece mevcut Windows kullanicisinin PDF sag tik menusune
+ozelligi ekler.

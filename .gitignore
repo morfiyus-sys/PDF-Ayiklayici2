@@ -1,0 +1,4 @@
+PDF_Ayikla_USB_BUILD/build/
+__pycache__/
+*.pyc
+.venv/
